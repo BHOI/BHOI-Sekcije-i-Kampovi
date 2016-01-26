@@ -1,0 +1,23 @@
+uvod:
+
+motivacija
+prica o efikasnosti (spoemnuti big oh)
+
+Kontejnerske klase i STL funkcije; 
+
+	preci ovo:
+
+	vector
+	map
+	set
+	priority_queue
+
+
+Iscrpna pretraga; 
+Bektreking; 
+Modularna aritmetika; 
+Najveci zajednicki djelilac; 
+Najmanji zajednicki sadržalac; 
+Testiranje prostosti brojeva; 
+Eratostenovo sito; 
+Rastavljanje na proste faktore;

@@ -1,0 +1,58 @@
+UVOD
+
+
+U vanila C, bio je samo niz
+Niz je ogranicen.
+
+
+Zamislimo da nam treba sturktura koja:
+
+    Add some string to a container.
+    Remove a string from a container.
+    Determine whether a string is present in the container.
+    Return a number of distinct elements in a container.
+    Iterate through a container and get a list of added strings in some order.
+
+
+Moguce rjesenje:
+	STL
+	
+Sta je STL
+
+	The Standard Template Library (STL) is a software library for the C++ programming language that influenced many parts of the C++ Standard Library. 
+	It provides four components called algorithms, containers, functional, and iterators.[1]
+	
+	The STL achieves its results through the use of templates. This approach provides compile-time polymorphism that is often more efficient than traditional run-time polymorphism. Modern C++ compilers are tuned to minimize any abstraction penalty arising from heavy use of the STL.
+	
+	Sta je polimorfizam:
+	Literally, polymorphism means "having multiple forms". In programming, if a variable can hold more than one type of value, then that's a kind of polymorphism. If functions can process more than one type of parameter, that's also polymorphism.
+
+	Kazes djetetu da ide u prodavnicu, kazes majci da ode u prodavnicu
+
+	primjer polimofrizma:
+	polimorfizam.cpp
+
+Neke korisne STL klase koje cemo vidjeti danas:
+
+	Linearne kontejnerske klase
+		vector
+			resize vs reserve
+			capacity vs size
+
+		pair
+			koordinatni sistem
+		queue
+		stack
+
+	Nelinearne kontejnerske klase
+		priority queue
+			
+		set
+		map
+
+	auto keyword
+
+sito
+	
+RSA encryption
+	

@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+	char *numbers [10] = { "nula", "jedan" };
+
+
+	return 0;
+}
