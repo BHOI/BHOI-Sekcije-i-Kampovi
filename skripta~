@@ -33,16 +33,26 @@ Sta je STL
 	polimorfizam.cpp
 
 Neke korisne STL klase koje cemo vidjeti danas:
-	vector
-		resize vs reserve
-		capacity vs size
 
-	pair
-		koordinatni sistem
-	queue
-	priority queue
-	stack
-	set
-	map
+	Linearne kontejnerske klase
+		vector
+			resize vs reserve
+			capacity vs size
 
+		pair
+			koordinatni sistem
+		queue
+		stack
 
+	Nelinearne kontejnerske klase
+		priority queue
+			
+		set
+		map
+
+	auto keyword
+
+sito
+	
+RSA encryption
+	

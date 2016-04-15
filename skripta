@@ -42,17 +42,28 @@ Neke korisne STL klase koje cemo vidjeti danas:
 		pair
 			koordinatni sistem
 		queue
+			queue.cpp
 		stack
+			stack.cpp
 
 	Nelinearne kontejnerske klase
 		priority queue
-			
+			priorty_queue.cpp
 		set
+			set.cpp
 		map
+			map.cpp
 
 	auto keyword
 
+Prosti brojevi
+
+	broj prostih brojeva do M sqrt (M / ln (M - 1))
+	PI (M) = O (sqrt (N) / ln (sqrt (n)))
+
 sito
+
 	
 RSA encryption
 	
+

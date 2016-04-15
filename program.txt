@@ -1,23 +1,41 @@
 uvod:
 
-motivacija
-prica o efikasnosti (spoemnuti big oh)
+	motivacija
+	prica o efikasnosti (spoemnuti big oh)
 
 Kontejnerske klase i STL funkcije; 
 
 	preci ovo:
-
-	vector
-	map
-	set
-	priority_queue
+	
+		vector
+		map
+		set
+		priority_queue
 
 
 Iscrpna pretraga; 
+	
+	neki brut
+
+
 Bektreking; 
+
+	8 queen
+	sudoku
+
 Modularna aritmetika; 
-Najveci zajednicki djelilac; 
+	
+	fast_pow()
+
+
+
+
 Najmanji zajednicki sadržalac; 
+	(mozda)
+
 Testiranje prostosti brojeva; 
-Eratostenovo sito; 
-Rastavljanje na proste faktore;
+	ovo ide sa ovim Eratostenovo sito; 
+
+Rastavljanje na proste faktore:
+
+	vaznost prostih brojeva u informatici i kriptografiji

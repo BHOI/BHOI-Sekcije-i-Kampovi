@@ -5,12 +5,12 @@ prica o efikasnosti (spoemnuti big oh)
 
 Kontejnerske klase i STL funkcije; 
 
-preci ovo:
+	preci ovo:
 
-vector
-map
-set
-priority_queue
+	vector
+	map
+	set
+	priority_queue
 
 
 Iscrpna pretraga; 
