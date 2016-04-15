@@ -1,0 +1,1 @@
+http://www.codeproject.com/Articles/5425/An-In-Depth-Study-of-the-STL-Deque-Container
