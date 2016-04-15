@@ -1,0 +1,31 @@
+In the most common sense of the term,[4] a graph is an ordered pair G = (V, E) comprising a set V of vertices, nodes or points together with a set E of edges, arcs or lines, which are 2-element subsets of V (i.e., an edge is related with two vertices, and the relation is represented as an unordered pair of the vertices with respect to the particular edge). To avoid ambiguity, this type of graph may be described precisely as undirected and simple.
+
+
+vertex
+edge
+un/weighted 
+un/directed
+sparse
+dense
+in/out degree
+path
+cycle
+isolated
+reachable
+
+connected
+A graph is connected if there are paths containing each pair of vertices.
+
+self loop
+
+
+multigraph
+In mathematics, and more specifically in graph theory, a multigraph is a graph which is permitted to have multiple edges (also called parallel edges[1]), that is, edges that have the same end nodes. 
+
+
+sub-graph
+dag
+tree
+eulerian
+bipartite
+complete
