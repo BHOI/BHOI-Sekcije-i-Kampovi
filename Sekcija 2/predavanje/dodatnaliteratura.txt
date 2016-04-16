@@ -1,0 +1,3 @@
+https://proofwiki.org/wiki/Category:Bipartite_Graphs
+http://courses.csail.mit.edu/6.006/spring11/rec/rec13.pdf
+http://people.qc.cuny.edu/faculty/christopher.hanusa/courses/634sp12/Documents/KruskalProof.pdf
