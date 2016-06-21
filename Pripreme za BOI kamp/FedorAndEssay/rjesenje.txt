@@ -1,0 +1,4 @@
+trie za bojenje
+eksplicitni graf
+jako povezane kompoenente
+prebrojavanje

@@ -1,0 +1,24 @@
+fazon sa binarnom pretragom
+trie + BITMASK
+SCC
+zadatak sa codeforcesa
+bitmaske
+dokaz za bipartitivne grafove
+prica o multisetu
+prica o segmentnom
+sparse semgnentnom
+zadatak BOI : dokaz + sparse
+
+
+/*
+   ti vec znas da je za a(i) zadovoljeno da je suma ispod njega veca od njega
+   onda za a(i+1) vijedi da treba biti vece od 1 + suma svih ispod njega
+   ako je neispravno
+   a(i+1) > a(i) + a(i-1) + ... + a(1)  + 1
+   ili kako vec
+   i onda ovaj drugi dio sume je veci od a(i) pa pises
+   a(i+1) > 2a(i)
+   aka ako redom sve provjeravas i nisi dosao do missmatcha sljedeca tacka koju treba gledat
+   ce uvijek biti tacka sa svojstvom
+   a(i+1) > 2a(i)
+   */
